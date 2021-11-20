@@ -17,7 +17,7 @@ Building with CMake
 
 1. Clone the demo repository.
 
-        git clone https://github.com/chintanaprabhu/se-fault-tolerance-LLVM.git
+        git clone https://github.com/chintanaprabhu/LLVM-dynamic-analysis.git
 
 2. Create a new directory for building.
 
