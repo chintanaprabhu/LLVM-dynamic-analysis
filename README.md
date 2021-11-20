@@ -1,9 +1,6 @@
 Software Engineering - Fault tolerance analysis using LLVM
 ==========================================================
 
-Forked from http://github.com/nsumner/se-fault-tolerant-template.git
-
-
 This project demonstrates fault tolerance based on LLVM. It implements dynamic analyses by using LLVM for static program instrumentation.
 
 This demonstrates protection of programs from different types of common bugs by checking a few simple policies at runtime. These are all standard bugs that will cause a program to crash, which can cause problems with availability.
